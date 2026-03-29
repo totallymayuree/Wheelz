@@ -1,6 +1,9 @@
 # Wheelz
 
-Wheelz is a modern web application built with [Next.js](https://nextjs.org/) and React.
+## About the Project
+
+Wheelz is a modern, responsive web application serving as the primary frontend interface for the Wheelz product. Designed with a focus on premium aesthetics and seamless user experience, it provides an intuitive platform for users to interact with the service. The project leverages bleeding-edge web technologies to ensure high performance, accessibility, and dynamic interactions.
+
 
 ## Getting Started
 
